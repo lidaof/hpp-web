@@ -1,0 +1,3 @@
+baseURL = 'https://humanpangenomeproject.org/'
+languageCode = 'en-us'
+title = 'Human Pangenome Project'
