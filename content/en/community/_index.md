@@ -6,7 +6,7 @@ showHeader: false
 
 ## Community
 
-{{< columns >}}
+{{< columns count=2 >}}
 {{< column >}}
 {{< img src="HumanPangenomeProjectStackedLogo.png" >}}
 {{< /column >}}
