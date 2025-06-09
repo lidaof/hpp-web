@@ -2,7 +2,7 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "The NIH-funded HPRC is a founding member of the Human Pangenome Project."
+  copyright: "Human Pangenome Project"
   title: "Human Pangenome Project"
   params:
     # description: "Site Description"
